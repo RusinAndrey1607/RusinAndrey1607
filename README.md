@@ -13,7 +13,7 @@ const Andrey: IUser = {
   technologies: {
     programmingLanguages: ['JavaScript', 'TypeScript'],
     frontend: ['HTML','CSS','SCSS', 'React', 'Redux (Toolkit)','MobX','Axios', 'Firebase','Sanity Io', 'NextJs', 'Contentfull CMS', 'MaterialUI', 'Tailwind'],
-    backend: ['NestJS',Node.js', 'Express', 'JWT', 'Socket io','PostgreSQL','MongoDB'],
+    backend: ['NestJS','Node.js', 'Express', 'JWT', 'Socket io','PostgreSQL','MongoDB'],
     devOps: ['Nginx', 'Docker'],
     developmentTools: {
       buildTools: ['Webpack','Gulp'],
