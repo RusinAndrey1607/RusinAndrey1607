@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Andrey&section=header&fontAlignY=50&strokeWidth=0&desc=Frontend%20Developer&descAlignY=66&animation=fadeIn&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Andrey&section=header&fontAlignY=50&strokeWidth=0&desc=Fullstack%20Developer&descAlignY=66&animation=fadeIn&reversal=false)
